@@ -6,7 +6,7 @@
 
 改动：elasticsearch -> meilisearch
      / mysql -> postgre sql
-      取消了maxwell组件
+     / 取消了maxwell组件
 
 在线体验直接跳转原作者java项目
 
