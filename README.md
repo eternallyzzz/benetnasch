@@ -2,7 +2,7 @@
 ****
 本项目为https://github.com/linhaojun857/aurora 的golang版本，旨在降低内存资源占用，原项目为java版
 
-服务器要求：1核1G
+服务器要求：原来的2核4G -> 1核1G
 
 改动：elasticsearch -> meilisearch
      / mysql -> postgre sql
