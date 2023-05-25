@@ -5,7 +5,7 @@
 服务器要求：1核1G
 
 改动：elasticsearch -> meilisearch
-      mysql -> postgre sql
+     / mysql -> postgre sql
       取消了maxwell组件
 
 在线体验直接跳转原作者java项目
